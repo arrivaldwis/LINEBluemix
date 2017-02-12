@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: LINEBluemixBot
-  host: https://console.ng.bluemix.net/rest/templates/javaHelloWorld/download/starter-code/manifest/applications%3A%0A-+path%3A+target%2FJavaHelloWorldApp.war%0A++memory%3A+512M%0A++instances%3A+1%0A++domain%3A+mybluemix.net%0A++name%3A+LINEBluemixBot%0A++host%3A+LINEBluemixBot%0A++disk_quota%3A+1024M%0A
+  host: LINEBluemixBot
   disk_quota: 1024M
